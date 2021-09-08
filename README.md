@@ -5,5 +5,4 @@
 ![:name](https://count.getloli.com/get/@:shawRo0t)
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShawRo0t)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShawRo0t&show_icons=true&theme=dark)
