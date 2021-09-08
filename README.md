@@ -34,7 +34,6 @@
 
 <br/>  
 
-  
 
 <br/>  
 
@@ -55,12 +54,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=shawro0t&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
