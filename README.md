@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://imgpp.com/images/2021/09/08/20171209222225_84Qya.gif" align="center" style="width: 100%" />
 </div>  
   
 
